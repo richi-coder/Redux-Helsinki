@@ -1,1 +1,1 @@
-# REDUX PRACTICE BASED ON HELSINKI FULL STACK
+# Based on Helsinki Univ Full Stack
